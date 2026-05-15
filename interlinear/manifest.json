@@ -1,0 +1,242 @@
+{
+  "version": "1.0",
+  "source": "OSHB v2.2 + BDB",
+  "total_words": 305507,
+  "total_verses": 23213,
+  "books": [
+    {
+      "book": "genesis",
+      "book_pt": "Gênesis",
+      "file": "assets/data/hebrew/interlinear/books/genesis.json",
+      "verses": 1533
+    },
+    {
+      "book": "exodus",
+      "book_pt": "Êxodo",
+      "file": "assets/data/hebrew/interlinear/books/exodus.json",
+      "verses": 1213
+    },
+    {
+      "book": "leviticus",
+      "book_pt": "Levítico",
+      "file": "assets/data/hebrew/interlinear/books/leviticus.json",
+      "verses": 859
+    },
+    {
+      "book": "numbers",
+      "book_pt": "Números",
+      "file": "assets/data/hebrew/interlinear/books/numbers.json",
+      "verses": 1289
+    },
+    {
+      "book": "deuteronomy",
+      "book_pt": "Deuteronômio",
+      "file": "assets/data/hebrew/interlinear/books/deuteronomy.json",
+      "verses": 959
+    },
+    {
+      "book": "joshua",
+      "book_pt": "Josué",
+      "file": "assets/data/hebrew/interlinear/books/joshua.json",
+      "verses": 658
+    },
+    {
+      "book": "judges",
+      "book_pt": "Juízes",
+      "file": "assets/data/hebrew/interlinear/books/judges.json",
+      "verses": 618
+    },
+    {
+      "book": "ruth",
+      "book_pt": "Rute",
+      "file": "assets/data/hebrew/interlinear/books/ruth.json",
+      "verses": 85
+    },
+    {
+      "book": "1_samuel",
+      "book_pt": "1 Samuel",
+      "file": "assets/data/hebrew/interlinear/books/1_samuel.json",
+      "verses": 811
+    },
+    {
+      "book": "2_samuel",
+      "book_pt": "2 Samuel",
+      "file": "assets/data/hebrew/interlinear/books/2_samuel.json",
+      "verses": 695
+    },
+    {
+      "book": "1_kings",
+      "book_pt": "1 Reis",
+      "file": "assets/data/hebrew/interlinear/books/1_kings.json",
+      "verses": 817
+    },
+    {
+      "book": "2_kings",
+      "book_pt": "2 Reis",
+      "file": "assets/data/hebrew/interlinear/books/2_kings.json",
+      "verses": 719
+    },
+    {
+      "book": "1_chronicles",
+      "book_pt": "1 Crônicas",
+      "file": "assets/data/hebrew/interlinear/books/1_chronicles.json",
+      "verses": 943
+    },
+    {
+      "book": "2_chronicles",
+      "book_pt": "2 Crônicas",
+      "file": "assets/data/hebrew/interlinear/books/2_chronicles.json",
+      "verses": 822
+    },
+    {
+      "book": "ezra",
+      "book_pt": "Esdras",
+      "file": "assets/data/hebrew/interlinear/books/ezra.json",
+      "verses": 280
+    },
+    {
+      "book": "nehemiah",
+      "book_pt": "Neemias",
+      "file": "assets/data/hebrew/interlinear/books/nehemiah.json",
+      "verses": 405
+    },
+    {
+      "book": "esther",
+      "book_pt": "Ester",
+      "file": "assets/data/hebrew/interlinear/books/esther.json",
+      "verses": 167
+    },
+    {
+      "book": "job",
+      "book_pt": "Jó",
+      "file": "assets/data/hebrew/interlinear/books/job.json",
+      "verses": 1070
+    },
+    {
+      "book": "psalms",
+      "book_pt": "Salmos",
+      "file": "assets/data/hebrew/interlinear/books/psalms.json",
+      "verses": 2527
+    },
+    {
+      "book": "proverbs",
+      "book_pt": "Provérbios",
+      "file": "assets/data/hebrew/interlinear/books/proverbs.json",
+      "verses": 915
+    },
+    {
+      "book": "ecclesiastes",
+      "book_pt": "Eclesiastes",
+      "file": "assets/data/hebrew/interlinear/books/ecclesiastes.json",
+      "verses": 222
+    },
+    {
+      "book": "song_of_songs",
+      "book_pt": "Cânticos",
+      "file": "assets/data/hebrew/interlinear/books/song_of_songs.json",
+      "verses": 117
+    },
+    {
+      "book": "isaiah",
+      "book_pt": "Isaías",
+      "file": "assets/data/hebrew/interlinear/books/isaiah.json",
+      "verses": 1291
+    },
+    {
+      "book": "jeremiah",
+      "book_pt": "Jeremias",
+      "file": "assets/data/hebrew/interlinear/books/jeremiah.json",
+      "verses": 1364
+    },
+    {
+      "book": "lamentations",
+      "book_pt": "Lamentações",
+      "file": "assets/data/hebrew/interlinear/books/lamentations.json",
+      "verses": 154
+    },
+    {
+      "book": "ezekiel",
+      "book_pt": "Ezequiel",
+      "file": "assets/data/hebrew/interlinear/books/ezekiel.json",
+      "verses": 1273
+    },
+    {
+      "book": "daniel",
+      "book_pt": "Daniel",
+      "file": "assets/data/hebrew/interlinear/books/daniel.json",
+      "verses": 357
+    },
+    {
+      "book": "hosea",
+      "book_pt": "Oseias",
+      "file": "assets/data/hebrew/interlinear/books/hosea.json",
+      "verses": 197
+    },
+    {
+      "book": "joel",
+      "book_pt": "Joel",
+      "file": "assets/data/hebrew/interlinear/books/joel.json",
+      "verses": 73
+    },
+    {
+      "book": "amos",
+      "book_pt": "Amós",
+      "file": "assets/data/hebrew/interlinear/books/amos.json",
+      "verses": 146
+    },
+    {
+      "book": "obadiah",
+      "book_pt": "Obadias",
+      "file": "assets/data/hebrew/interlinear/books/obadiah.json",
+      "verses": 21
+    },
+    {
+      "book": "jonah",
+      "book_pt": "Jonas",
+      "file": "assets/data/hebrew/interlinear/books/jonah.json",
+      "verses": 48
+    },
+    {
+      "book": "micah",
+      "book_pt": "Miqueias",
+      "file": "assets/data/hebrew/interlinear/books/micah.json",
+      "verses": 105
+    },
+    {
+      "book": "nahum",
+      "book_pt": "Naum",
+      "file": "assets/data/hebrew/interlinear/books/nahum.json",
+      "verses": 47
+    },
+    {
+      "book": "habakkuk",
+      "book_pt": "Habacuque",
+      "file": "assets/data/hebrew/interlinear/books/habakkuk.json",
+      "verses": 56
+    },
+    {
+      "book": "zephaniah",
+      "book_pt": "Sofonias",
+      "file": "assets/data/hebrew/interlinear/books/zephaniah.json",
+      "verses": 53
+    },
+    {
+      "book": "haggai",
+      "book_pt": "Ageu",
+      "file": "assets/data/hebrew/interlinear/books/haggai.json",
+      "verses": 38
+    },
+    {
+      "book": "zechariah",
+      "book_pt": "Zacarias",
+      "file": "assets/data/hebrew/interlinear/books/zechariah.json",
+      "verses": 211
+    },
+    {
+      "book": "malachi",
+      "book_pt": "Malaquias",
+      "file": "assets/data/hebrew/interlinear/books/malachi.json",
+      "verses": 55
+    }
+  ]
+}
